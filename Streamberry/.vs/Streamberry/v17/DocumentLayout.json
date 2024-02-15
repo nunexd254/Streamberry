@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repo\\Streamberry\\Streamberry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\data\\map\\filmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\data\\map\\filmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\data\\systemfilmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\data\\systemfilmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\data\\map\\gendermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\data\\map\\gendermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\models\\gendermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\models\\gendermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\models\\filmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\models\\filmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\repositorios\\interfaces\\ifilmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\repositorios\\interfaces\\ifilmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\repositorios\\filmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\repositorios\\filmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\enum\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\enum\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenderMap.cs",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Data\\Map\\GenderMap.cs",
+              "RelativeDocumentMoniker": "Streamberry\\Data\\Map\\GenderMap.cs",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Data\\Map\\GenderMap.cs",
+              "RelativeToolTip": "Streamberry\\Data\\Map\\GenderMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:24:34.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmMap.cs",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Data\\Map\\FilmMap.cs",
+              "RelativeDocumentMoniker": "Streamberry\\Data\\Map\\FilmMap.cs",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Data\\Map\\FilmMap.cs",
+              "RelativeToolTip": "Streamberry\\Data\\Map\\FilmMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:20:29.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenderModel.cs",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Models\\GenderModel.cs",
+              "RelativeDocumentMoniker": "Streamberry\\Models\\GenderModel.cs",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Models\\GenderModel.cs",
+              "RelativeToolTip": "Streamberry\\Models\\GenderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:17:53.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenderEnum.cs",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Enum\\GenderEnum.cs",
+              "RelativeDocumentMoniker": "Streamberry\\Enum\\GenderEnum.cs",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Enum\\GenderEnum.cs",
+              "RelativeToolTip": "Streamberry\\Enum\\GenderEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:15:43.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Program.cs",
+              "RelativeDocumentMoniker": "Streamberry\\Program.cs",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Program.cs",
+              "RelativeToolTip": "Streamberry\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:02:40.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\appsettings.json",
+              "RelativeDocumentMoniker": "Streamberry\\appsettings.json",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\appsettings.json",
+              "RelativeToolTip": "Streamberry\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-15T12:00:53.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilmRepository.cs",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Repositorios\\FilmRepository.cs",
+              "RelativeDocumentMoniker": "Streamberry\\Repositorios\\FilmRepository.cs",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Repositorios\\FilmRepository.cs",
+              "RelativeToolTip": "Streamberry\\Repositorios\\FilmRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T20:39:27.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFilmRepository.cs",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Repositorios\\Interfaces\\IFilmRepository.cs",
+              "RelativeDocumentMoniker": "Streamberry\\Repositorios\\Interfaces\\IFilmRepository.cs",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Repositorios\\Interfaces\\IFilmRepository.cs",
+              "RelativeToolTip": "Streamberry\\Repositorios\\Interfaces\\IFilmRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T20:40:17.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SystemFilmsDBContext.cs",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Data\\SystemFilmsDBContext.cs",
+              "RelativeDocumentMoniker": "Streamberry\\Data\\SystemFilmsDBContext.cs",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Data\\SystemFilmsDBContext.cs",
+              "RelativeToolTip": "Streamberry\\Data\\SystemFilmsDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T20:24:30.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "Streamberry\\Controllers\\FilmController.cs",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "Streamberry\\Controllers\\FilmController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T20:09:55.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmModel.cs",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Models\\FilmModel.cs",
+              "RelativeDocumentMoniker": "Streamberry\\Models\\FilmModel.cs",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Models\\FilmModel.cs",
+              "RelativeToolTip": "Streamberry\\Models\\FilmModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T20:03:44.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
