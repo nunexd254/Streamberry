@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
 using Streamberry.Data;
 using Streamberry.Repositorios;
+using Streamberry.Repositorios.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,11 +12,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddEntityFrameworkMySql()
-    .AddDbContext<SystemFilmsDBContext>(
-        options => options.UseMySql(builder.Configuration.GetConnectionString("Database"))
-    );
-builder.Services.AddScoped<IFilmRepostory, FilmRepository>();
+//builder.Services.AddEntityFrameworkMySql()
+//    .AddDbContext<SystemFilmsDBContext>(
+//        options => options.UseMySql(builder.Configuration.GetConnectionString("Database"), ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("Database"))));
+
+builder.Services.AddDbContext<SystemFilmsDBContext>
+    (options => options.UseMySql(
+        builder.Configuration.GetConnectionString("DataBase"), ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("Database"))));
+
+builder.Services.AddScoped<IFilmRepository, FilmRepository>();
 
 var app = builder.Build();
 

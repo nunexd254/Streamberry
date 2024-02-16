@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Streamberry.csproj": {}
+    "C:\\repo\\streamberry\\streamberry\\Streamberry\\Streamberry.csproj": {}
   },
   "projects": {
-    "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Streamberry.csproj": {
+    "C:\\repo\\streamberry\\streamberry\\Streamberry\\Streamberry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Streamberry.csproj",
+        "projectUniqueName": "C:\\repo\\streamberry\\streamberry\\Streamberry\\Streamberry.csproj",
         "projectName": "Streamberry",
-        "projectPath": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Streamberry.csproj",
+        "projectPath": "C:\\repo\\streamberry\\streamberry\\Streamberry\\Streamberry.csproj",
         "packagesPath": "C:\\Users\\nunex\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\obj\\",
+        "outputPath": "C:\\repo\\streamberry\\streamberry\\Streamberry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nunex\\AppData\\Roaming\\NuGet\\NuGet.Config",

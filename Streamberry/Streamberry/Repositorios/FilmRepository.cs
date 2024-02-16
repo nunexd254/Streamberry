@@ -23,10 +23,17 @@ namespace Streamberry.Repositorios
         }
         public async Task<FilmModel> Adicionar(FilmModel film)
         {
-            await _dbContext.Film.AddAsync(film);
-            await _dbContext.SaveChangesAsync();
+            try
+            {
+                await _dbContext.Film.AddAsync(film);
+                await _dbContext.SaveChangesAsync();
 
-            return film;
+                return film;
+            }
+            catch (Exception e)
+            {
+                throw new Exception($"Usuário {e.Message} não foi encontrado no banco de dados.");
+            }
         }
 
         public async Task<FilmModel> Atualizar(FilmModel film, int id)

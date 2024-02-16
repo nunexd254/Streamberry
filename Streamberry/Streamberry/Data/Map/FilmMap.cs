@@ -10,7 +10,8 @@ namespace Streamberry.Data.Map
         {
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Title).IsRequired().HasMaxLength(255);
-            builder.Property(x => x.Year).IsRequired().HasMaxLength(255);
+            builder.Property(x => x.Year).IsRequired();
+            builder.Property(x => x.IdGenero).IsRequired();
         }
     }
 }

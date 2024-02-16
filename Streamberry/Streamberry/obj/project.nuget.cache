@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zZaD023gwlgHMagFZhQYK8amtXnLtfgbZ1ccEwgfV3qJtLTXiomKFYN+595OEP1+ANADPYjghJxbCfa7z3+z7g==",
+  "dgSpecHash": "iICdFa7QFUbFXVfau2lRoNbI1OFSgFG1QDUYnKAkjtFB/BEhTeeXgYbE7qows/VvTMVEsuQdTjjVvkYYwlCptQ==",
   "success": true,
-  "projectFilePath": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Streamberry.csproj",
+  "projectFilePath": "C:\\repo\\streamberry\\streamberry\\Streamberry\\Streamberry.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nunex\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\nunex\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Streamberry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f182586c56393e6264a4c7a32e4127096b2a99c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Streamberry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Streamberry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
