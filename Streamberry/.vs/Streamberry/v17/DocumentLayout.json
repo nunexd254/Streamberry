@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Repo\\Streamberry\\Streamberry\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|c:\\repo\\streamberry\\streamberry\\streamberry\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A5A5E-117A-4E70-895C-6A80C098A952}|Streamberry\\Streamberry.csproj|solutionrelative:streamberry\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Streamberry\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Repo\\Streamberry\\Streamberry\\Streamberry\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Streamberry\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:17:27.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
